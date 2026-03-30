@@ -1,0 +1,5 @@
+{
+  "name": "Edge TTS Generator",
+  "description": "A web-based Text-to-Speech tool using Microsoft Edge TTS, featuring Chinese to English translation and Christopher's voice by default.",
+  "requestFramePermissions": []
+}
